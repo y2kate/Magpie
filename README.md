@@ -1,0 +1,4 @@
+Magpie
+======
+
+Magpie CS project
